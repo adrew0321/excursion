@@ -10,3 +10,34 @@ body {
   color: white;
   text-align: center;
 }
+
+#Video {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+#TravelGuide {
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+#ComingSoon {
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+#Footer {
+  text-align: right;
+  color: gray
+}
+
+p {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
